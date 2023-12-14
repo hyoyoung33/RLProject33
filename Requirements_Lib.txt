@@ -1,0 +1,5 @@
+numpy
+gymnasium
+tqdm
+matplotlib
+tabulate
